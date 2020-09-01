@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Peta&display=swap');
+
+body {
+  background-color: HoneyDew;
+
+}
+
+#headerF {
+  padding-top: .1px;
+  text-align: center;
+  color: Turquoise;
+  font-family: Lexend, sans-serif;
+  font-style: italic;
+}
+
+.tutoraillabel {
+  color: Sienna;
+
+}
+
+.practicelabel {
+  color: Sienna;
+}
+
+
+.thankyou {
+  color: Sienna;
+}
